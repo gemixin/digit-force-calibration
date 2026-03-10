@@ -53,4 +53,4 @@ Create a new conda environment using the provided `environment.yml`:
 
 ```bash
 conda env create -f environment.yml
-conda activate digit_force_calibration
+conda activate digit-force-calibration

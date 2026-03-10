@@ -1,4 +1,4 @@
-name: digit_force_calibration
+name: digit-force-calibration
 channels:
   - defaults
   - conda-forge
