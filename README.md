@@ -28,8 +28,8 @@ This repo contains:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gemixin/digit_force_calibration.git
-cd digit_force_calibration
+git clone https://github.com/gemixin/digit-force-calibration.git
+cd digit-force-calibration
 ```
 
 ### 2. Install dependencies
@@ -54,3 +54,13 @@ Create a new conda environment using the provided `environment.yml`:
 ```bash
 conda env create -f environment.yml
 conda activate digit-force-calibration
+```
+
+## Citation
+
+If you use DIGIT or this repo in your research, please cite:
+
+**DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation**  
+Mike Lambeta, Po-Wei Chou, Stephen Tian, Brian Yang, Benjamin Maloon, Victoria Rose Most, Dave Stroud, Raymond Santos, Ahmad Byagowi, Gregg Kammerer, Dinesh Jayaraman, Roberto Calandra  
+_IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 3, pp. 3838–3845, 2020_  
+[https://doi.org/10.1109/LRA.2020.2977257](https://doi.org/10.1109/LRA.2020.2977257)
