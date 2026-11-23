@@ -19,7 +19,7 @@ This repo contains:
 ## Requirements
 
 - **Operating System:** Windows, Mac, Linux
-- **Tested Environment:** Ubuntu 22.04, Python 3.10.12
+- **Tested Environment:** Ubuntu 24.04, Python 3.12
 - **Python Environment:** Regular Python or Anaconda environment
 - **Packages:** See `requirements.txt`
 
